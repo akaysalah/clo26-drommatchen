@@ -1,10 +1,9 @@
-// TODO: Skapa minst 2 spelare
-// Spelare spelare1 = new Spelare("Namn", nummer, "Position");
-// Spelare spelare2 = new Spelare(...);
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-// TODO: Skapa 1 match
-// Match match = new Match("Hemmalag", "Bortalag", "Datum");
+Spelare spelare1 = new Spelare("Alexader Isak", 9, "Forward");
+Spelare spelare2 = new Spelare("Virgil Van Dijk", 4, "Back");
 
-// TODO: Anropa match.Presentera()
-
-// TODO: Anropa match.AnnounceraMålskytt() med båda spelarna
+Match match = new Match("Brentford FC", "Liverpool FC", "2026-09-20");
+match.Presentera(); 
+match.AnnounceraMålskytt(spelare1);
+match.AnnounceraMålskytt(spelare2);
