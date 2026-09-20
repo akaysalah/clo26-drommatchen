@@ -37,7 +37,7 @@ public class Match
     // Metod 1: skriv ut matchens lag och datum
     public void Presentera()
     {
-        // TODO
+        Console.WriteLine($"{Hemmalag} vs {Bortalag} — {Datum}");
     }
 
     // Metod 2: skriv ut spelarens namn, nummer och position
