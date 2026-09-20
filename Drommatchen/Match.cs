@@ -34,13 +34,13 @@ public class Match
         _datum = datum;
     }
 
-    // Metod 1: skriv ut matchens lag och datum
+    // Matchens lag och datum
     public void Presentera()
     {
         Console.WriteLine($"{Hemmalag} vs {Bortalag} — {Datum}");
     }
 
-    // Metod 2: skriv ut spelarens namn, nummer och position
+    // Spelarens namn, nummer och position
     public void AnnounceraMålskytt(Spelare spelare)
     {
         Console.WriteLine($"GOLAZOOOOO! #{spelare.Nummer} {spelare.Namn} ({spelare.Position})");
