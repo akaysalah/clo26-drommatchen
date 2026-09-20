@@ -43,6 +43,6 @@ public class Match
     // Metod 2: skriv ut spelarens namn, nummer och position
     public void AnnounceraMålskytt(Spelare spelare)
     {
-        // TODO
+        Console.WriteLine($"GOLAZOOOOO! #{spelare.Nummer} {spelare.Namn} ({spelare.Position})");
     }
 }
