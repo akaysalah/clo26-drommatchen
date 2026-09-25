@@ -69,5 +69,18 @@ Metoden ÄrMatchHjälte() är en bool som kollar om någon spelar har gjort mins
 Klistra in utskriften från `git log --oneline` här:
 
 ```
-[klistra in här]
+6275c10 Sista ändring i rapport.md
+2c78673 La till Reflektion
+5843d70 Fyllt i rapport & reflektion samt finishing touches i koden.
+9453898 skriver nu ut Matchhjälte i Main
+2b360a0 la till ÄrMatchhjälte i Match.cs
+2cbf127 tog bort kommentarer och la till Mål i spelare.cs
+a3c49f6 skapade spelare och match i Main
+b28445d implementerade AnnounceraMålskytt i Match.cs
+8b10b62 implementerade Presentera i Match
+bc17ab8 la till match med fält, properties 6 konstruktor
+d45b575 La till spelare med fält, properties och konstruktor
+35825ed Solutionfile added at root
+34de7d5 refactor: gör property-kroppar tomma — studerande implementerar själva
+66f4917 init: starterrepo för Drömmatchen (Inlämning 1)
 ```
