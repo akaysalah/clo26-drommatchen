@@ -60,7 +60,7 @@ Metoden ÄrMatchHjälte() är en bool som kollar om någon spelar har gjort mins
 
 ### Varför vi löste det såhär
 
-> ÄrMatchHjälte returnerar en bool vilket kändes som det självklaraste eftersom MatchHjälte endast kan vara sant eller falskt ifall en spelare har gjort minst ett mål. Metoden returnerar sant/falskt istället för att skriva ut så att Main själv kan bestämma vad den gör med svaret."
+> ÄrMatchHjälte returnerar en bool vilket kändes som det självklaraste eftersom MatchHjälte endast kan vara sant eller falskt ifall en spelare har gjort minst ett mål. Metoden returnerar sant/falskt istället för att skriva ut så att Main själv kan bestämma vad den gör med svaret.
 
 ---
 
