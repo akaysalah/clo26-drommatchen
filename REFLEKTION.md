@@ -14,16 +14,14 @@
 
 ## Vad var svårast att lösa?
 
-*Var fastnade du? Vad tog längre tid än du trodde — och hur kom du vidare?*
+felet CS7036 (när jag råkade ha allt i ett par citattecken, även ints). Det tog mig tid att lösa. 
 
 > 
 
 ---
 
 ## Hur fungerade samarbetet i gruppen?
-
-*Vad fungerade bra? Vad var svårt? Hur delade ni upp arbetet?*  
-*(Individuell uppgift? Hoppa över den här.)*
+Underbart, Akram är ganska härlig att jobba med.    
 
 > 
 
@@ -31,6 +29,6 @@
 
 ## Om du fick göra om det — vad hade du gjort annorlunda?
 
-*Tänk på din lösning, din struktur, eller hur ni jobbade. Vad skulle du ändra?*
+Auto properties istället för långa properties. Men, den långa vägen var nyttig för lärdom.
 
 > 
