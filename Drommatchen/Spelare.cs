@@ -39,6 +39,6 @@ public class Spelare
         _nummer = nummer;
         _position = position;
         _mål = mål;
-
     }
+
 }

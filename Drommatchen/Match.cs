@@ -46,7 +46,7 @@ public class Match
         Console.WriteLine($"GOLAZOOOOO! #{spelare.Nummer} {spelare.Namn} ({spelare.Position})");
     }
 
-    // Match-hjälte. Gäller för spelaren som gjorde flest mål.
+    // Match-hjälte. Gäller för spelaren som gjorde minst ett mål.
     public bool ÄrMatchhjälte(Spelare spelare)
     {
         return spelare.Mål >= 1;
